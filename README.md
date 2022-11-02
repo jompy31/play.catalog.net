@@ -25,7 +25,7 @@ Finally, there are a few infrastructure components like Logging, Distributed Tra
 ## Make it Your Own!
 
 ### 1. Make sure you have what you need
-To build this website, you will need to have latest .NET Software Development Kit or SDK/ Visual Studio Code/ Docker Desktop , downloaded and installed on your machine. If you don't already have it, you can get it <a href="https://dotnet.microsoft.com/download/">.net</a><a href="https://docs.docker.com/get-docker/">Docker</a><a href="https://aka.ms/vscode/">VsCode</a>
+To build this website, you will need to have latest .NET Software Development Kit or SDK/ Visual Studio Code/ Docker Desktop , downloaded and installed on your machine. If you don't already have it, you can get it <a href="https://dotnet.microsoft.com/download/">.net</a> / <a href="https://docs.docker.com/get-docker/">Docker</a> / <a href="https://aka.ms/vscode/">VsCode</a>
 ### 2. Build a microservices via .Net CLI
 * run in terminal in src folder: `dotnet new webapi -n Play.Catalog.service`.
     * play.catalog.services.csproj: Define how the project will be build and .net version.
